@@ -6,7 +6,7 @@
       "name": "Mega",
       "description": "O artesanal tamanho família recheado com três carnes suculentas, queijo e bacon.",
       "price": 25.5,
-      "image": "src/assets/burger-mega.jpg"
+      "image": "https://i.imgur.com/upjIUnG.jpg"
     },
     {
       "id": 2,
